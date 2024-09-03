@@ -2,8 +2,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Megha/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?logo=github&logoColor=white)](https://Megha.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megha-kumari123/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?logo=github&logoColor=white)](https://github.com/megh-prg)
 
 
 I’m a passionate Software Developer and Data Enthusiast with a love for crafting solutions that make a difference. With a background in Computer Applications and a keen interest in machine learning and web development, I’m constantly exploring new technologies and working on exciting projects.
