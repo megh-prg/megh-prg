@@ -3,8 +3,14 @@
 I’m a passionate Software Developer and Data Enthusiast with a love for crafting solutions that make a difference. With a background in Computer Applications and a keen interest in machine learning and web development, I’m constantly exploring new technologies and working on exciting projects.
 
 🔭 **Currently working on:** Optimizing deep learning models and building dynamic web applications.
+
+
 🌱 **Learning:** Advanced neural networks, Django, and automation testing.
+
+
 💬 **Ask me about:** Python, Machine Learning, Web Development, and Data Analysis.
+
+
 🎯 **Goals for 2024:** Contribute more to open source projects and enhance my full-stack development skills.
 
 <!--
