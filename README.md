@@ -18,7 +18,7 @@ I’m a passionate Software Developer and Data Enthusiast with a love for crafti
 💬 **Ask me about:** Python, Machine Learning, Web Development, and Data Analysis.
 
 
-🎯 **Goals for 2024:** Contribute more to open source projects and enhance my full-stack development skills.
+🎯 **Goals for 2025:** Contribute more to open source projects and enhance my full-stack development skills.
 
 <!--
 **megh-prg/megh-prg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
