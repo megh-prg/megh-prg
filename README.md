@@ -12,7 +12,7 @@ I’m a passionate Software Developer and Data Enthusiast with a love for crafti
 🔭 **Currently working on:** Optimizing deep learning models and building dynamic web applications.
 
 
-🌱 **Learning:** Advanced neural networks, Django, and automation testing.
+🌱 **Learning:** Advanced neural networks, Django, Cybersecurity
 
 
 💬 **Ask me about:** Python, Machine Learning, Web Development, and Data Analysis.
@@ -20,17 +20,6 @@ I’m a passionate Software Developer and Data Enthusiast with a love for crafti
 
 🎯 **Goals for 2025:** Contribute more to open source projects and enhance my full-stack development skills.
 
-<!--
-**megh-prg/megh-prg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
