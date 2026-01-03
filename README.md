@@ -7,8 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/GitHub-24292E?logo=github&logoColor=white)](https://github.com/megh-prg)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/spontaneous_00)
 
----
-
 ## About Me
 I’m an **AI-focused Software Developer** with hands-on experience in **Machine Learning, NLP, Data Analysis, and backend API development**.  
 Currently building **production-grade AI systems**, deploying ML models using **FastAPI**, and developing **React-based interfaces** for real-world applications.
@@ -26,17 +24,6 @@ I enjoy transforming raw data into intelligent systems that solve meaningful bus
 - NLP, Text Summarization, Classification
 - LLMs (GPT, FLAN-T5), RAG pipelines
 - Scikit-learn, Pandas, NumPy
-
-### Data & Databases
-- Data Analysis & EDA  
-- PostgreSQL, MongoDB  
-- Feature engineering & data preprocessing  
-
-###  Frontend & Tools
-- React.js  
-- Docker, Git, Jupyter Notebook  
-- Power BI, Tableau  
-
 ##  Currently Learning (2026)
 - Advanced Neural Networks & LLM fine-tuning  
 - Scalable ML system design  
