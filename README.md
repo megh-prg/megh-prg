@@ -9,7 +9,7 @@
 ---
 
 ## Hey there! 
-I’m **Megha Jha**, an **Software  Developer and Data Scientist** with ~**2 years of hands-on experience** building **machine learning models, NLP systems, and backend APIs**.  
+I’m **Megha Jha**, a **Software Developer and Data Scientist** with ~**2 years of hands-on experience** building **machine learning models, NLP systems, and backend APIs**.  
 Welcome to my GitHub — here you’ll find **production-oriented AI projects**, data-driven solutions, and real-world applications.
 
 ---
