@@ -9,7 +9,7 @@
 ---
 
 ## Hey there! 
-I’m **Megha Jha**, an **AI Developer and Data Scientist** with ~**1.5 years of hands-on experience** building **machine learning models, NLP systems, and backend APIs**.  
+I’m **Megha Jha**, an **Software  Developer and Data Scientist** with ~**2 years of hands-on experience** building **machine learning models, NLP systems, and backend APIs**.  
 Welcome to my GitHub — here you’ll find **production-oriented AI projects**, data-driven solutions, and real-world applications.
 
 ---
@@ -51,8 +51,7 @@ Contributing bug fixes to [**Stingray**](https://github.com/StingraySoftware/sti
 ---
 
 ## Let’s Connect
-- Email: meghajha1947@gmail.com  
-- LinkedIn: www.linkedin.com/in/megha-kumari123  
+- Email: official.meghajha@gmail.com   
 
 Thanks for stopping by!  
 Feel free to explore my repositories and reach out for collaboration or opportunities 🚀
