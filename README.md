@@ -42,6 +42,14 @@ Docker, Git, Jupyter Notebook, VS Code, Jira
 
 ---
 
+## 🌱 Open Source Contributions
+Contributing bug fixes to [**Stingray**](https://github.com/StingraySoftware/stingray), an actively maintained scientific-Python library for astronomical time-series analysis:
+
+- **[#1016](https://github.com/StingraySoftware/stingray/pull/1016)** — `Lightcurve.apply_gtis()` was setting the light curve's start time to an array instead of a single value, which broke `join()`. Fixed it and added a regression test.
+- **[#1017](https://github.com/StingraySoftware/stingray/pull/1017)** — `GtiCorrPowerspectrum` was silently modifying the caller's input light curve. Fixed it to work on a copy, and added a regression test.
+
+---
+
 ## Let’s Connect
 - Email: meghajha1947@gmail.com  
 - LinkedIn: www.linkedin.com/in/megha-kumari123  
