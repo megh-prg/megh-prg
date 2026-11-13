@@ -42,6 +42,15 @@ Docker, Git, Jupyter Notebook, VS Code, Jira
 
 ---
 
+## 🚀 Featured Projects
+- **[Weather-Aware Truck Routing](https://github.com/megh-prg/weather-aware-routing)** — React + Django app that scores driving routes by live weather risk along the way. [Live demo](https://weather-aware-routing-ten.vercel.app)
+- **[HireTrack](https://github.com/megh-prg/HireTrack)** — Full-stack job-search platform: job matching, application tracking, recruiter follow-ups, and interview prep.
+- **[ElevateCV AI](https://github.com/megh-prg/elevatecv-ai)** — AI resume optimizer with JD-based ATS scoring and automated enhancement.
+- **[Fuel-Route API](https://github.com/megh-prg/fuel-route-api)** — Django API that plans cost-optimal fuel stops along a US route.
+- **[Portfolio](https://portfolio-megh-8576.vercel.app)** — My personal portfolio site.
+
+---
+
 ## 🌱 Open Source Contributions
 Contributing bug fixes to [**Stingray**](https://github.com/StingraySoftware/stingray), an actively maintained scientific-Python library for astronomical time-series analysis:
 
